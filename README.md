@@ -1,2 +1,4 @@
 # Movie-Recommendation-System-Project
-Get 5 recommended movies based on a recent movie that you watched
+This project  recommended 5 movies based on a movie of you like.
+URL: https://movie-rs-sancheet.herokuapp.com/
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
